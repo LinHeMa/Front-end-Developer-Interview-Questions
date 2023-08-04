@@ -67,6 +67,9 @@ permalink: /translations/chinese-traditional/index.html
 #### <a name='html-questions'>HTML 問題:</a>
 
 * `doctype` 做什麼用的？
+    * DOCTYPE其實是Document Type的簡寫，也就是文件類型的意思。
+
+      <!DOCTYPE html>的作用是告訴瀏覽器這是一份以「HTML標記語言(markup language)」所撰寫的文件，所以請用HTML的定義來解讀我。  
 * standards mode 和 quirks mode 有什麼不同？
 * 使用 XHTML 有什麼限制？?
 * 如果網頁使用 `application/xhtml+xml` 會有問題嗎？
